@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>repo.ololo.tech — пакетный репозиторий ololo</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    max-width: 760px; margin: 2rem auto; padding: 0 1rem;
+    line-height: 1.55;
+  }
+  h1 { margin-bottom: 0.2rem; }
+  h2 { margin-top: 2rem; border-bottom: 1px solid #8884; padding-bottom: 0.3rem; }
+  code, pre {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    background: #80808022;
+    border-radius: 4px;
+  }
+  code { padding: 0.1em 0.35em; }
+  pre { padding: 0.8rem 1rem; overflow-x: auto; }
+  .sub { color: #888; margin-top: 0; }
+  ul { padding-left: 1.2rem; }
+  a { color: #2563eb; }
+  @media (prefers-color-scheme: dark) { a { color: #60a5fa; } }
+</style>
+</head>
+<body>
+<h1>repo.ololo.tech</h1>
+<p class="sub">Пакетный репозиторий продуктов <a href="https://ololo.tech">ololo.tech</a>.</p>
+
+<h2>Что здесь</h2>
+<ul>
+  <li><code>/apt</code> — APT-репозиторий для Debian/Ubuntu (<code>amd64</code>, <code>stable</code>).</li>
+  <li><code>/rpm</code> — DNF/YUM-репозиторий для Fedora и RedOS (<code>x86_64</code>).</li>
+  <li><code>/admin</code> — десктоп-админка для управления mesh: <a href="/admin/win-x64/">win-x64</a>.</li>
+  <li><a href="/pubkey.asc">/pubkey.asc</a> — публичный GPG-ключ репозитория.</li>
+  <li><a href="/setup.sh">/setup.sh</a> — автоматический bootstrap.</li>
+</ul>
+
+<h2>Быстрая установка</h2>
+<pre><code>curl -fsSL https://repo.ololo.tech/setup.sh | sudo sh</code></pre>
+<p>Скрипт определяет дистрибутив, импортирует GPG-ключ и подключает репозиторий. После него:</p>
+<pre><code>sudo apt install ololo-relay   # Debian/Ubuntu
+sudo dnf install ololo-relay   # Fedora / RedOS</code></pre>
+
+<h2>Продукты</h2>
+<ul>
+  <li><strong>ololo-relay</strong> — relay-узел. <a href="https://ololo.tech/products/relay/">Описание и гайд</a>.</li>
+  <li><strong>ololo-relay-admin</strong> — десктоп-приложение для управления mesh.
+      Скачать: <a href="/admin/win-x64/">Windows x64</a>
+      (установщик и portable, SHA256SUMS рядом). Linux/macOS — в планах.</li>
+</ul>
+
+<h2>Ручная настройка</h2>
+<p>Если не хочется запускать чужой <code>sh</code> через curl — см.
+полные инструкции и проверку отпечатка ключа на странице продукта.</p>
+</body>
+</html>
