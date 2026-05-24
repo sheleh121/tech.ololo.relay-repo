@@ -3,56 +3,28 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ololo-relay-admin для Windows x64 — v0.7.9</title>
+<title>ololo-relay-admin для Windows x64 — v0.7.11</title>
 <style>
   :root { color-scheme: light dark; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    max-width: 760px; margin: 2rem auto; padding: 0 1rem;
-    line-height: 1.55;
-  }
-  h1 { margin-bottom: 0.2rem; }
-  h2 { margin-top: 2rem; border-bottom: 1px solid #8884; padding-bottom: 0.3rem; }
-  .sub { color: #888; margin-top: 0; }
-  ul { padding-left: 1.2rem; }
-  li { margin-bottom: 0.5rem; }
-  a { color: #2563eb; }
-  code, pre {
-    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-    background: #80808022;
-    border-radius: 4px;
-  }
-  code { padding: 0.1em 0.35em; }
-  pre { padding: 0.8rem 1rem; overflow-x: auto; }
-  .size { color: #888; font-size: 0.9em; }
-  @media (prefers-color-scheme: dark) { a { color: #60a5fa; } }
+  body { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+         max-width:760px; margin:2rem auto; padding:0 1rem; line-height:1.55; }
+  h2 { margin-top:2rem; border-bottom:1px solid #8884; padding-bottom:.3rem; }
+  a { color:#2563eb; }
+  code { font-family:ui-monospace,monospace; background:#80808022;
+         border-radius:4px; padding:.1em .35em; }
+  .size { color:#888; font-size:.9em; }
+  @media (prefers-color-scheme:dark) { a { color:#60a5fa; } }
 </style>
 </head>
 <body>
 <h1>ololo-relay-admin — Windows x64</h1>
-<p class="sub">Версия <code>v0.7.9</code></p>
-
+<p>Версия <code>v0.7.11</code></p>
 <h2>Скачать</h2>
 <ul>
-  <li><a href="OloloRelayAdmin-Setup-v0.7.9.exe">OloloRelayAdmin-Setup-v0.7.9.exe</a>
-      <span class="size">— installer, 41.8 MB</span><br>
-      Регистрирует приложение в системе, ярлык в Пуск, штатный uninstall через «Программы и компоненты».</li>
-  <li><a href="OloloRelayAdmin-portable-v0.7.9.exe">OloloRelayAdmin-portable-v0.7.9.exe</a>
-      <span class="size">— portable, 46.5 MB</span><br>
-      Один файл, ничего не ставит. Можно с флешки.</li>
-  <li><a href="SHA256SUMS">SHA256SUMS</a> — контрольные суммы (сверить: <code>sha256sum -c SHA256SUMS</code>).</li>
-  <li><a href="latest.txt">latest.txt</a> — текущая версия (машиночитаемо).</li>
+  <li><a href="OloloRelayAdmin-Setup-v0.7.11.exe">OloloRelayAdmin-Setup-v0.7.11.exe</a> <span class="size">— 42 МБ, installer</span></li>
+  <li><a href="OloloRelayAdmin-portable-v0.7.11.exe">OloloRelayAdmin-portable-v0.7.11.exe</a> <span class="size">— 47 МБ, portable (один файл)</span></li>
+  <li><a href="SHA256SUMS">SHA256SUMS</a></li>
 </ul>
-
-<h2>Особенности</h2>
-<ul>
-  <li>Self-contained .NET 9 — никаких runtime'ов ставить не надо.</li>
-  <li>UI на Avalonia, тёмная тема по умолчанию.</li>
-  <li>На первом запуске Windows SmartScreen покажет предупреждение
-      («Windows protected your PC») — нажать <em>More info</em> →
-      <em>Run anyway</em>. Подписи Authenticode пока нет.</li>
-</ul>
-
-<p><a href="../">← к другим платформам</a> · <a href="../../">в корень repo.ololo.tech</a></p>
+<p><a href="../">← другие платформы</a></p>
 </body>
 </html>
