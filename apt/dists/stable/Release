@@ -2,19 +2,19 @@ Origin: ololo.tech
 Label: ololo-relay
 Suite: stable
 Codename: stable
-Date: Tue, 26 May 2026 16:05:23 UTC
+Date: Tue, 26 May 2026 16:29:10 UTC
 Architectures: amd64
 Components: main
 Description: ololo-relay packages
 MD5Sum:
- 28a3dd8254391063938b59a027ae5d32 1279 main/binary-amd64/Packages
- fd08e7fb767172cd366897cda354c9e2 668 main/binary-amd64/Packages.gz
+ 2d2848da3407721a1790baa913713c73 1279 main/binary-amd64/Packages
+ fd5041b2a400510b3c29f907e695b830 669 main/binary-amd64/Packages.gz
  4c87713357924ed24dcf9c3988cdfeb3 124 main/binary-amd64/Release
 SHA1:
- fdc0f95a762cc9472302a1cabc464fc66b13a5c2 1279 main/binary-amd64/Packages
- de42ce0209289878814a85d22ce47092094b728e 668 main/binary-amd64/Packages.gz
+ 51c4d4ffb6a9f7f088446a251a57e609d6e4e79a 1279 main/binary-amd64/Packages
+ 8fc85d6900f9478086e53bd36c46612420400d51 669 main/binary-amd64/Packages.gz
  8ecbf8dfd0c8e4aa2c122099edfe8024c13b69fd 124 main/binary-amd64/Release
 SHA256:
- be20cd4802c3335e2342acd0193efb18a691bf32bab2009404fd929506bee9e9 1279 main/binary-amd64/Packages
- 237c38113ec9d5cb45d95f57fd22e3502b5629e4cda51264718440da58830a51 668 main/binary-amd64/Packages.gz
+ 799994859391aa3502df5515cabc1dfb752495b4848606a999691c6b039a94f5 1279 main/binary-amd64/Packages
+ f945c31958df72944259573f6b108c6969435f0f9156a85b20d1067e0af67a7f 669 main/binary-amd64/Packages.gz
  b06f4a167156c7c8cdc2c271611a8ee733916e57b1fa08f4c8e585aa559c0ff2 124 main/binary-amd64/Release
