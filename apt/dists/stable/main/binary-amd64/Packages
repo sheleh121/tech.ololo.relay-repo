@@ -9,10 +9,10 @@ Homepage: https://repo.ololo.tech/relay/
 Priority: optional
 Section: net
 Filename: pool/main/o/ololo-relay/ololo-relay_0.9.1.21_amd64.deb
-Size: 22679020
-SHA256: 66f39ebdebd84309417b8dafa7d40fac7b3433452b41f569b1307da24a387771
-SHA1: 37a1f36d639f86e2adf128df2a77e82eadfe36bf
-MD5sum: c5e29ec5ff5cf0b62d155d2e962e16bc
+Size: 22679024
+SHA256: f2e57230712be64d722df23be6af6d1395bb9bfc4ca68c1c924dc677fb4777ae
+SHA1: 3816840fb973ec6d02fec9271ed2336dea768b0c
+MD5sum: 113111996cfb72c9a642fd909d5b1233
 Description: ololo-relay — distributed mesh relay node.
  Подробнее: https://repo.ololo.tech/relay/
 
