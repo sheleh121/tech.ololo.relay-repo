@@ -16,6 +16,8 @@
   .sub { color: #888; margin-top: 0; }
   ul { padding-left: 1.2rem; }
   a { color: #2563eb; }
+  code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+         background: #80808022; border-radius: 4px; padding: 0.1em 0.35em; }
   @media (prefers-color-scheme: dark) { a { color: #60a5fa; } }
 </style>
 </head>
@@ -26,8 +28,10 @@
 <h2>Платформы</h2>
 <ul>
   <li><a href="win-x64/">Windows x64</a> — installer и portable</li>
-  <li>Linux x64 — в планах</li>
-  <li>macOS arm64 — в планах</li>
+  <li>Linux x64 — через пакетный репозиторий:
+      <code>apt install ololo-relay-admin</code> /
+      <code>dnf install ololo-relay-admin</code>
+      (подключение репозитория — <a href="/setup.sh">setup.sh</a>)</li>
 </ul>
 
 <p><a href="../">← в корень repo.ololo.tech</a></p>
