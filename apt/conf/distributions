@@ -1,0 +1,8 @@
+Origin: ololo.tech
+Label: ololo-relay
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: ololo-relay packages
+SignWith: 2E81F9E2E4621CF2

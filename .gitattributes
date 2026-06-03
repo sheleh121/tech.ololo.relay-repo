@@ -1,0 +1,16 @@
+* text=auto
+
+# Скрипты для Linux — всегда LF, иначе shebang ломается.
+*.sh text eol=lf
+
+# GPG-armored файлы — текст, LF.
+*.asc text eol=lf
+
+# CNAME — текст, LF.
+CNAME text eol=lf
+
+# Бинарные пакеты — не трогать.
+*.deb binary
+*.rpm binary
+*.gz  binary
+*.xz  binary
