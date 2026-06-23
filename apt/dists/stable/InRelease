@@ -5,35 +5,35 @@ Origin: ololo.tech
 Label: ololo-relay
 Suite: stable
 Codename: stable
-Date: Tue, 23 Jun 2026 16:10:59 UTC
+Date: Tue, 23 Jun 2026 17:13:22 UTC
 Architectures: amd64
 Components: main
 Description: ololo-relay packages
 MD5Sum:
- fa490ab6fc382a278d8dbb8d367c9be8 1273 main/binary-amd64/Packages
- c02cfbb1fb8a849e1fc110aaebf97853 662 main/binary-amd64/Packages.gz
+ 12eb94d325bcf17fd243f2c55d0f46cf 1273 main/binary-amd64/Packages
+ b2b3db022335748e832df8db1f169732 661 main/binary-amd64/Packages.gz
  4c87713357924ed24dcf9c3988cdfeb3 124 main/binary-amd64/Release
 SHA1:
- fdf49858f31b5f7130c373d3f8080b3f9549f540 1273 main/binary-amd64/Packages
- 180542df280bd52735517b58de776dc64649c2fe 662 main/binary-amd64/Packages.gz
+ fcee9386388bb67b2cd0a93f837e3738964fa0df 1273 main/binary-amd64/Packages
+ a79eb3e7c301036786ecd0ab2df7999373e2c865 661 main/binary-amd64/Packages.gz
  8ecbf8dfd0c8e4aa2c122099edfe8024c13b69fd 124 main/binary-amd64/Release
 SHA256:
- ffa0f4efb7176a22b2dc2f408bbdb2ae856887623c02e22474afde912bae5b4f 1273 main/binary-amd64/Packages
- 945d0e5d713c729fa68306355cd0d75bdf2e23271d3baf7bdfab66d21ebcf4f8 662 main/binary-amd64/Packages.gz
+ 8076875a8a1884853392605ddab8198fe0428ab065ae37e87fd8d974b67f8fed 1273 main/binary-amd64/Packages
+ 353279005f86eed905eff99bbea50db01accba5248d11cbdacd5e266ab704e57 661 main/binary-amd64/Packages.gz
  b06f4a167156c7c8cdc2c271611a8ee733916e57b1fa08f4c8e585aa559c0ff2 124 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEeZaIAMlj7mMkQ4raLoH54uRiHPIFAmo6sBMACgkQLoH54uRi
-HPJ4FQ/+NREw7iSJfBK+JYZPOlIy5Nao927OG39S7PFsMyg+YNAA2SFb9aRbcSRe
-QpR/RVMooP/m61JEbz98EjMjrEqVPZTYmCmdWsAH4pCmq3Sgf9zKVhYgXVPTKgA4
-FalVi6Xn6yJd2uQvE0Btfm+7V9i1heLauH/JRwgFxUQDWukxwDsVSpIvhVJCY3s/
-az+VhS0Nv0XqWSAE33wyRPvrx7gAs1g/9hcVc2heE+5VKcYxcsHipD/RpjnWOd3v
-ONwtMf1JCoTB5ytdasry0pP+UJ43GrHP5SiwwfPlB7JvngLn0vPayEkszFCwHAEK
-Tij0lhEZn5QE2JagO+1Xc/Vy66o0zj+qzf0ZmRv6C+9RezHe+q9Hmr4IegLMe79e
-stvzjz3/G7U4DzHj+EUR/DXXyK2BSYffadtol6m/UIn2oeWx+M1pX1aOcGyJELhQ
-jE7PwOeaB47P43uWSAJEbxJ1Ae3A/28wV2H+8GITgo7Y/TtSMrh3+JOgA9FkF7b1
-uLm8X23v6qQUSOJRBcIRuVXepWNWF8tM+eU4G5GbiB81QF0UFh9Kt6FRe8u++EiC
-T1JcWOCsrYuseWvyiZ16/z9p5i8fGRi30zleXM5O5/ce+h4FVTjy2B15tWzWHJxR
-7aMbqpE3qvRsG4042Mmhxh4EzpTk6q9UJCMvpTpgVuJgYDvkpCk=
-=yZQn
+iQIzBAEBCgAdFiEEeZaIAMlj7mMkQ4raLoH54uRiHPIFAmo6vrIACgkQLoH54uRi
+HPLEuhAAp3CW1d1g3OIESUVxwgLtTQ2hN05yCqlT913J8dlGvKSV2YUiaak50zGH
+za4Opq32wOgwkwE4f+Nm4sRaj9jFYeTBtJAqQwK8vi9Pp5aqPnYogmE4czAg1lSu
+VUQIDbamATIPJ9vyDThqPySzmVBmIgq4eLobOKvrw2BAb2FlMsNXouxc28q5yDLO
+vnA6WlwOACgkYs8PiAXo0FPAgx3aM6jlriXdKgaF4n96XHN+aAniM22lp1COaUNZ
+6fYTjpfam4Kvbcj50I4latugHnBvYunAWlir4VtzOiRYJ22Na5FfPKIiAPexSB5W
+CvG8hoyZrXF/hI1NL2BsKM0ljpcknhVAHVWXfYSLoVxqMZIXxWWgGHDmvvlWH/wy
+FYUAej5au6a4Gn/RBeInKBW9UxU1R9QFG2gY/a2NEH7zui0FGvXO7t1OT8dgPJVC
+CHkkoi6o7mOM23061GJb56r2lFaw5XK5GB8FS/2SMUd7r65qXsA7xCt693Dd9QSY
+6uZxqWBo46whrZD9m1Kc1g4HGADLFqyecJP/kpRxYmEFWXfloTeEjJL300V/DRZe
+tVx9/p5wbVV41w+aL/l7PrEuqb0Lx0cAAzdJGsPY2/48v9p4F0a7cKzS6O64qbp3
+KhiycnXjA9z2VIoDI+0muvVJZvPEkpJnN89LYDnFLKIbEZge/FI=
+=sPGI
 -----END PGP SIGNATURE-----
