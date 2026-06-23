@@ -17,20 +17,20 @@ Description: ololo-relay — distributed mesh relay node.
  Подробнее: https://repo.ololo.tech/relay/
 
 Package: ololo-relay-admin
-Version: 0.9.5
+Version: 0.9.6
 Architecture: amd64
 License: Proprietary
 Maintainer: ololo.tech <admin@ololo.tech>
-Installed-Size: 103342
+Installed-Size: 103378
 Depends: libx11-6, libxkbcommon0, fontconfig
 Homepage: https://repo.ololo.tech/
 Priority: optional
 Section: net
-Filename: pool/main/o/ololo-relay-admin/ololo-relay-admin_0.9.5_amd64.deb
-Size: 46749336
-SHA256: ca383c39aee51f9e3b399142131f653366497aaeb06f3b0a1965be1f09f151b2
-SHA1: e8c2818ee9a5178793e91cb76d258aa95e91c52d
-MD5sum: 5087514a315ee8ca2ed45ef8b1dda68b
+Filename: pool/main/o/ololo-relay-admin/ololo-relay-admin_0.9.6_amd64.deb
+Size: 46770906
+SHA256: 24e0d22c92acf41c117081dcfac86450b47908c6f9be0591c10260fea994db83
+SHA1: bdd050d761d67641ac2df0169092b1adc4233856
+MD5sum: ba8d9ec358e94fcf30f3d8576d656e58
 Description: ololo-relay-admin — административный GUI для управления mesh-сетью ololo-relay.
  Подробнее: https://repo.ololo.tech/
 
