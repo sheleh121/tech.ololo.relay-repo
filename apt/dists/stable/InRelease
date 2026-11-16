@@ -5,7 +5,7 @@ Origin: ololo.tech
 Label: ololo-relay
 Suite: stable
 Codename: stable
-Date: Mon, 16 Nov 2026 07:41:18 UTC
+Date: Mon, 16 Nov 2026 13:01:33 UTC
 Architectures: amd64
 Components: main
 Description: ololo-relay packages
@@ -23,17 +23,17 @@ SHA256:
  b06f4a167156c7c8cdc2c271611a8ee733916e57b1fa08f4c8e585aa559c0ff2 124 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEeZaIAMlj7mMkQ4raLoH54uRiHPIFAmr6s54ACgkQLoH54uRi
-HPL6oQ//eR+aGPicVvvmMlWU9UvsQR6/1O1YAr8f0h8i0qekf3Db+B+nliLKEcmK
-tGp7sGxEuxYo/DF7S3BOjJyuyzGTEigYCDf086Us692wDFAnkvcJI3KKqXlt86eh
-96QgCWK63cCg7qhUGlbQlL8mopbOPgBNLvwVoEv/Cz9W8hp4dt0pr4eNOi1g9wVt
-kp4MnS53f1cNBIW3bRY+C3jgFQ4LFiajZf0yjS0BQ1FxnSVBafRaf1WEfo8nlVKY
-Y52s/85lt3rDikAR/BGoUcVCkmHELvFJ/oh1YfgwXxHpnsjZ6GCBtsXaaVGwAaCe
-wseQz56CRSCMKoynCF7xtPOKdDDsm4HFvHw6wWz/ZqBHbUqosE29fDmXhX6xmTpb
-XNPrM5ODD0M1LMn/3n6fq9xbhCUVJc6zbc2JFKytVwhd4TUUOfmiLzPO3WkFR0ex
-sED+Awgw4OTncAvP04w25sEEwBv0DLpLfjA6g0G95/7S6NdzP9bHe/gnZk6Joik/
-Xoppb2k9NloXlvUBQwww6FcR0PcXQ46CUZiBDud3N6I3yky7Ro+7485TPjXm5f1e
-3Fvn5f57WjZ16vSVgx7zs6Be3xtCv0bWcymnJMoH/Rj9IUurqZGluaINp0s+zSfo
-aF0VTk0m1UbQVg1LTVHhuDN/VjICkcGsFrS7XQdZ/ERbfYCMIgQ=
-=Pwlz
+iQIzBAEBCgAdFiEEeZaIAMlj7mMkQ4raLoH54uRiHPIFAmr6/q0ACgkQLoH54uRi
+HPKvuRAAmqJ78oJrOiLg0j206ziTVLEJW+bzgePTil2cmIjN/ntF+yZr5xMmxwIG
+uAgnPqdLvvHAfDA8dw4rZT2qJEA/YA+ChBJfsWR3PA3eIcVG2xOP+cwqXJzgGdfQ
+39L9yxhApcAjOpbfwX5pROXDaM/TbKdPpSonWbWtvCizcMMg/O4ATMgqPMa5W7e3
+b+rVkOFZgZuWT26YkXWc4/xystrBzdhlM7zaCoE45qEsNKMo1+csqiQq+beMyhEn
+njZ0Rn7EiS89u397mPeTCQHXHA/NLouE1aUla4obshL/eCpiC96b6/dV3ztkT5tH
+scGNkIYbbnFa3nwWhHl3yWjwr4RIYigM30XRf87/5Foq398VLzbWblQBCb9VV31t
+isDRqOgzMnL0mgB3ffyRcemD/SplbNmU99SitTdwX3gp2Yw633F7kJoBMuGAzrYI
+5MymmOfFA03FQRHwfIl3PSrjFXBiLx9aQP/FQxin2B7eSZTdKBi5vfM9tcu+YJLg
+Sqvxvv94+XP9uk2PbC1IXnHv1iShvHDazFYfjNAM8NmhbjaMpIiQwdWuXUT1vmEd
+RmQJr8FezfJPulL951vKeE0zeCABc9cI2INPVBOn6qLzP8Ak9ItOjbdzigrHDT8b
+QT7+fZYmMQ9NCR28Ahx4+Bpbz4ou4eZ1Tm50n8m5zTAAGA6KD64=
+=kNlE
 -----END PGP SIGNATURE-----
