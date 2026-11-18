@@ -1,18 +1,18 @@
 Package: ololo-relay
-Version: 0.9.18
+Version: 0.9.19
 Architecture: amd64
 License: Proprietary
 Maintainer: ololo.tech <admin@ololo.tech>
-Installed-Size: 58653
+Installed-Size: 58597
 Recommends: libcap2-bin
 Homepage: https://repo.ololo.tech/relay/
 Priority: optional
 Section: net
-Filename: pool/main/o/ololo-relay/ololo-relay_0.9.18_amd64.deb
-Size: 24142352
-SHA256: 1980927f04d55fcc8aacf8713651e5fd07710692c72dd34074032b10b3a5354d
-SHA1: ab964f188b3ecea4c510a78ea1d2e418b1e4263a
-MD5sum: bb980f253d7ad2644a8265a8cd45db91
+Filename: pool/main/o/ololo-relay/ololo-relay_0.9.19_amd64.deb
+Size: 24181374
+SHA256: e2ba3ea930cc3c5384cc1b9e185da5c563355dd83731dd9c4f7259a1d36cf9e9
+SHA1: 8f2c09babeae92e20dd181f44687454277f0cd23
+MD5sum: 282f5ecf15a8ccc3cfc82230647f1e1e
 Description: ololo-relay — distributed mesh relay node.
  Подробнее: https://repo.ololo.tech/relay/
 
