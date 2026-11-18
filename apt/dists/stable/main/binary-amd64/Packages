@@ -17,22 +17,22 @@ Description: ololo-relay — distributed mesh relay node.
  Подробнее: https://repo.ololo.tech/relay/
 
 Package: ololo-relay-admin
-Version: 0.9.19
+Version: 0.9.20
 License: UNLICENSED
 Vendor: ololo.tech <admin@ololo.tech>
 Architecture: amd64
 Maintainer: ololo.tech <admin@ololo.tech>
-Installed-Size: 286407
+Installed-Size: 286416
 Depends: libgtk-3-0, libnss3, libxss1, libxtst6, libsecret-1-0, libasound2t64 | libasound2
 Recommends: libappindicator3-1
 Homepage: https://ololo.tech
 Priority: optional
 Section: default
-Filename: pool/main/o/ololo-relay-admin/ololo-relay-admin_0.9.19_amd64.deb
-Size: 101454284
-SHA256: 8f882292c5459c799694793b08136a4c47bd5193def0109d58fac1075db16966
-SHA1: b39b4b9de8fa73cefe6a78893e950b2adb5c4cc5
-MD5sum: 6aa2dc3700706e3a70d25faad7e1478a
+Filename: pool/main/o/ololo-relay-admin/ololo-relay-admin_0.9.20_amd64.deb
+Size: 101459072
+SHA256: 82787d6af09ef2652af387f113473ba67321fe3d23e93db6cd3cddcc7d3a2a22
+SHA1: 4fc59469ae973eedfcc456b73e623fde6c335793
+MD5sum: 04ebb5e8afc911da28b3651ac039c2fe
 Description: Админка кластера ololo-relay
   Десктопная админка full-mesh релея ololo-relay
 
